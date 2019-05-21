@@ -4,9 +4,43 @@ border-color: black;
 }
 .barrainicio{
     border-style:  solid ;
-    border-color: blue;
+    border-color: chartreuse;
 }
 .inicio{
     border-style:  solid ;
     border-color: red;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.body{
+    border-style:  solid ;
+    border-color:blueviolet;
+}
+.barrabody{
+    border-style:  solid ;
+    border-color: chartreuse;
+}
+.relleno{
+    background-color: blue
+}
+.datos{
+    margin-left: 20px;
+    color: cadetblue;
+    font-weight: bold;
+    
+}
+.datos1{
+    font-weight: bold;
+    font-size: 10px;
+}
+.info{
+    border-style:  solid ;
+    border-color: ghostwhite;
+}
+.fondo{
+    border-style:  solid ;
+    border-color:palegreen;
 }
